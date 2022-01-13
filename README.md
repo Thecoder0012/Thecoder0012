@@ -1,5 +1,4 @@
 ### Hi there visitor 👋
-
 <!--
 Things about me
 - 🔭 I’m currently working on Java projects.
