@@ -2,7 +2,7 @@
      
 Things about me:
 
-   - 🔭 I’m currently working on Java projects.
+   - 🔭 I’m currently working on Java and HTML/CSS/JS projects.
    - 🌱 I’m currently learning Java and Web development in HTML/CSS/JS/React.
    - 👯 I’m looking to collaborate on projects regarding web development or other stuff.
    - 🤔 I’m looking for help with swift/kotlin/react native
