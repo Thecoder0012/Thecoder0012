@@ -2,7 +2,7 @@
      
 Things about me:
 
-   - 🔭 I’m currently working on Java, HTML/CSS/JS projects and SQLITE databases.
+   - 🔭 I’m currently working on Java, HTML/CSS/JS projects and SQL databases.
    - 🌱 I’m currently learning Java, Web development in HTML/CSS/JS/React and SQLITE.
    - 👯 I’m looking to collaborate on projects regarding web development or other stuff.
    - 🤔 I’m looking for help with swift/kotlin/react native
