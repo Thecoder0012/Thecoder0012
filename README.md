@@ -2,9 +2,9 @@
      
 Things about me:
 
-   - 🔭 I’m currently working on Java, HTML/CSS/JS projects and SQL databases.
-   - 🌱 I’m currently learning Java, Web development in HTML/CSS/JS/React and SQLITE.
-   - 👯 I’m looking to collaborate on projects regarding web development or other stuff.
+   - 🔭 I’m currently working on Java, Spring Boot, Hibernate, HTML/CSS/JS, and MySQL.
+   - 🌱 I’m currently learning React and mobile dev.
+   - 👯 I’m looking to collaborate on projects regarding web development or other programming languages.
    - 🤔 I’m looking for help with swift/kotlin/react native
    - 💬 Ask me about literally anything in life.
    - 📫 How to reach me: LinkedIn
