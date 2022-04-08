@@ -6,7 +6,7 @@ Things about me:
    - 🌱 I’m currently learning React and mobile dev.
    - 👯 I’m looking to collaborate on projects regarding web development or other programming languages.
    - 🤔 I’m looking for help with swift/kotlin/react native
-   - 💬 Ask me about literally anything in life.
+   - 💬 Ask me about literally anything with regards to software engineering.
    - 📫 How to reach me: LinkedIn
    - 😄 Pronouns: He/Him
    - ⚡ Fun fact: I love to code :))
