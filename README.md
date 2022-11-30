@@ -7,7 +7,7 @@ Things about me:
    - 👯 I’m looking to collaborate on projects regarding web development or other programming languages.
    - 🤔 I’m looking for help with swift/kotlin/react native
    - 💬 Ask me about anything with regards to software engineering.
-   - 📫 How to reach me: LinkedIn
+   - 📫 How to reach me: 
    - 😄 Pronouns: He/Him
    - ⚡ Fun fact: I love to code :))
        
