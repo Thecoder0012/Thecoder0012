@@ -2,10 +2,9 @@
      
 Things about me:
 
-   - 🔭 I’m currently working on Java, Spring Boot, Hibernate, HTML/CSS/JS, and MySQL.
+   - 🔭 I’m currently working on Java, Spring Boot, Hibernate, Restful web services, React.js, php, laravel, Docker.
    - 🌱 I’m currently learning React and mobile dev.
    - 👯 I’m looking to collaborate on projects regarding web development or other programming languages.
-   - 🤔 I’m looking for help with swift/kotlin/react native
    - 💬 Ask me about anything with regards to software engineering.
    - 📫 How to reach me: 
    - 😄 Pronouns: He/Him
