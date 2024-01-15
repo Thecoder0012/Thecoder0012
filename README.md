@@ -2,7 +2,7 @@
      
 Things about me:
 
-   - 🔭 I’m currently working on Java, Spring Boot, Hibernate, Restful web services, Node.js, React.js, php, laravel, Docker.
+   - 🔭 I’m currently working with Java, Spring Boot, React JS, Node JS, Restful web services, Laravel, Docker, Kubernetes, Bash, Cloud.
    - 🌱 I’m currently learning Mobile development.
    - 👯 I’m looking to collaborate on projects regarding web development or other programming languages.
    - 💬 Ask me about anything with regards to software engineering.
